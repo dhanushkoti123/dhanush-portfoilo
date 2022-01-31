@@ -160,9 +160,10 @@ background-color: rgb(255, 255, 255);
 }
 
 h1{
-font-size:25px;
-    color:red;
+font-size:35px;
+    color:#9900ff;
     font-family:"monospace";
+    text-align:center;
     
 }
 .heading p{
@@ -438,8 +439,12 @@ nav ul{
     padding: 3px 18px;
 }
 h1{
-    font-size: 25px;
-    color:#4c0080;
+font-size:25px;
+ font-family: cursive , sans-serif;
+    color:#9900ff;
+  
+    text-align:center;
+    
 }
 }
 
@@ -462,10 +467,7 @@ h1{
 #bar{
     font-size: 20px
 }
-h1{
-    font-size: 25px;
-    color:#4c0080;
-}
+
 #about img{
     width: 200px;
     margin-bottom: 20px;
@@ -479,6 +481,15 @@ h1{
 #footer .social-links2 a i{
     font-size: 1.5rem;
     margin-top: 20px;
+}
+    
+    h1{
+font-size:25px;
+ font-family: cursive , sans-serif;
+    color:#9900ff;
+  
+    text-align:center;
+    
 }
 #work{
     height: 120vw;
