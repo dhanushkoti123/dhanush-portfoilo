@@ -430,7 +430,10 @@ nav ul{
 #about button{
     padding: 3px 18px;
 }
-
+h1{
+    font-size: 25px;
+    color:#4c0080;
+}
 }
 
 @media screen and (max-width:350px){
