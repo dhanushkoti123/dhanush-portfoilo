@@ -149,7 +149,7 @@ text-align: center;
 background-color: rgb(255, 255, 255);
 }
 
-.heading h2,  h1{
+.heading h2{
     text-transform: capitalize;
     color: var(--secondary);
     font-size: 4rem;
@@ -157,6 +157,12 @@ background-color: rgb(255, 255, 255);
     text-align: center;
 
   
+}
+
+h1{
+font-size:25px;
+    color:#9900ff;
+    font-family:"monospace";
 }
 .heading p{
 color: var(--primary);
