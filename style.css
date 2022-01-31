@@ -161,8 +161,9 @@ background-color: rgb(255, 255, 255);
 
 h1{
 font-size:25px;
-    color:#9900ff;
+    color:red;
     font-family:"monospace";
+    
 }
 .heading p{
 color: var(--primary);
